@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaDemo", "LambdaDemo\LambdaDemo.csproj", "{FF003486-A235-4101-B960-EC83790BAD4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonTypeDemo", "AnonTypeDemo\AnonTypeDemo.csproj", "{4B8792C6-AE0B-4828-834B-9E3CAB1DBDDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{FF003486-A235-4101-B960-EC83790BAD4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF003486-A235-4101-B960-EC83790BAD4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF003486-A235-4101-B960-EC83790BAD4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B8792C6-AE0B-4828-834B-9E3CAB1DBDDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B8792C6-AE0B-4828-834B-9E3CAB1DBDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B8792C6-AE0B-4828-834B-9E3CAB1DBDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B8792C6-AE0B-4828-834B-9E3CAB1DBDDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

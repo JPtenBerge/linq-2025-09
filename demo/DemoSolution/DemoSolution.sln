@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonTypeDemo", "AnonTypeDem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqDemo", "LinqDemo\LinqDemo.csproj", "{3EF6CB90-F8C7-417D-AE92-0ECCADE7468B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectDemo", "CollectDemo\CollectDemo.csproj", "{07387A11-12F4-482C-B430-865BE422580F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{3EF6CB90-F8C7-417D-AE92-0ECCADE7468B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EF6CB90-F8C7-417D-AE92-0ECCADE7468B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EF6CB90-F8C7-417D-AE92-0ECCADE7468B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07387A11-12F4-482C-B430-865BE422580F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07387A11-12F4-482C-B430-865BE422580F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07387A11-12F4-482C-B430-865BE422580F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07387A11-12F4-482C-B430-865BE422580F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

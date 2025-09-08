@@ -25,6 +25,5 @@ public class Linqy
 		{
 			Console.WriteLine($"{p.Description} kost {p.Price}");
 		}
-		
 	}
 }

@@ -2,5 +2,5 @@
 
 using LambdaDemo;
 
-// Linqy.Doe();
-Yield.Doe();
+Linqy.Doe();
+// Yield.Doe();
